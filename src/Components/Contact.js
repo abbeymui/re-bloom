@@ -6,10 +6,9 @@ class Contact extends Component {
       var message = this.props.data.contactmessage;
     }
 
-    const styleWhite = { color: "white" };
     return (
       <section id="contact">
-        <h2 style={styleWhite}>
+        <h2 style={{ color: "white", textAlign: "center" }}>
           Interested in becoming a volunteer developer?
         </h2>
         <div className="row banner">
@@ -19,6 +18,7 @@ class Contact extends Component {
               <p className="gray">{message}</p>
               <iframe
                 src="https://docs.google.com/forms/d/e/1FAIpQLSfzsY9hhopa3cQlb2efHzK0ZTIPOAqtkN8H1ug9-BE3Otv4hQ/viewform"
+                title="googleform"
                 width="640"
                 height="524"
                 frameborder="0"
