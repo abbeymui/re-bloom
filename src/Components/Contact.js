@@ -6,7 +6,7 @@ class Contact extends Component {
       var message = this.props.data.contactmessage;
     }
 
-    const styleWhite = { color: "white", text0align: "center" };
+    const styleWhite = { color: "white" };
     return (
       <section id="contact">
         <h2 style={styleWhite}>
