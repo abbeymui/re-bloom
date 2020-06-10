@@ -177,6 +177,11 @@ p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
    margin-bottom: 18px;
 }
+p.gray {
+	font: 19px/36px 'opensans-light', sans-serif;
+	margin-bottom: 18px;
+	color: #bdbdbd;
+}
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
 the body tag due to rendering problems in some browsers */
