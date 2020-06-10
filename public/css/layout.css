@@ -62,7 +62,7 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
+  font: 90px/1.1em "georgia", serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
@@ -229,10 +229,11 @@ ul#nav li.current a {
   line-height: 30px;
   color: #7a7a7a;
 }
-#about .profile-pic {
+#about .logo {
   position: relative;
   width: 120px;
   height: 120px;
+  object-fit: cover;
   border-radius: 100%;
 }
 #about .contact-details {
@@ -877,7 +878,16 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-  background: #191919;
+  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  background-attachment: fixed;
+
+  position: relative;
+  min-height: 200px;
+  width: 100%;
+  overflow: hidden;
+
   padding-top: 96px;
   padding-bottom: 102px;
   color: #636363;

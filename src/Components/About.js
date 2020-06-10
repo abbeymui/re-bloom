@@ -4,7 +4,7 @@ class About extends Component {
   render() {
     if (this.props.data) {
       var name = this.props.data.name;
-      var profilepic = "images/" + this.props.data.image;
+      var logo = "images/" + this.props.data.logo;
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
@@ -18,11 +18,7 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img
-              className="profile-pic"
-              src={profilepic}
-              alt="Tim Baker Profile Pic"
-            />
+            <img className="logo" src={logo} alt="Logo" />
           </div>
           <div className="nine columns main-col">
             <h2>About Us</h2>
