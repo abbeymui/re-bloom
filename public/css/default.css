@@ -263,6 +263,7 @@ h2 {
   font-size: 28px;
   line-height: 36px;
   margin-bottom: 6px;
+  text-align: center;
 }
 h3 {
   font-size: 22px;
@@ -294,6 +295,11 @@ p img {
 p.lead {
   font: 19px/36px "opensans-light", sans-serif;
   margin-bottom: 18px;
+}
+p.gray {
+  font: 19px/36px "opensans-light", sans-serif;
+  margin-bottom: 18px;
+  color: #bdbdbd;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
