@@ -12,22 +12,17 @@ class Contact extends Component {
           Interested in becoming a volunteer developer?
         </h2>
         <div className="row banner">
-          <div className="banner-text">
-            <div className="two columns header-col"></div>
-            <div className="ten columns">
-              <p className="gray">{message}</p>
-              <iframe
-                src="https://docs.google.com/forms/d/e/1FAIpQLSfzsY9hhopa3cQlb2efHzK0ZTIPOAqtkN8H1ug9-BE3Otv4hQ/viewform"
-                title="googleform"
-                width="640"
-                height="524"
-                frameBorder="0"
-                marginHeight="0"
-                marginWidth="0"
-              >
-                Loading…
-              </iframe>
-            </div>
+          <p className="gray">{message}</p>
+          <div className="google-form" style={{ textAlign: "center" }}>
+            <iframe
+              src="https://docs.google.com/forms/d/e/1FAIpQLSfzsY9hhopa3cQlb2efHzK0ZTIPOAqtkN8H1ug9-BE3Otv4hQ/viewform"
+              title="googleform"
+              width="640"
+              height="524"
+              frameBorder="0"
+              marginHeight="0"
+              marginWidth="0"
+            ></iframe>
           </div>
         </div>
       </section>
