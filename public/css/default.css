@@ -210,6 +210,7 @@ p.gray {
 	font: 19px/36px "opensans-light", sans-serif;
 	margin-bottom: 18px;
 	color: #bdbdbd;
+	text-align: center;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
@@ -1164,7 +1165,9 @@ properly.
 
 .google-form {
 	position: relative;
-	padding-bottom: 122%;
+	padding-bottom: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
 	height: 0;
 	overflow: hidden;
 }
