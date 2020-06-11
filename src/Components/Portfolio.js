@@ -1,15 +1,14 @@
 import React, { Component } from "react";
+import genericLogo from "../Data/genericlogo.png";
 
 class Portfolio extends Component {
   render() {
     if (this.props.data) {
       var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = "images/" + projects.image;
-
         return (
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
-              <img alt={projects.title} src={projectImage} />
+              <img alt={projects.title} src={genericLogo} />
             </div>
             <div
               className="portfolio-item-meta"
