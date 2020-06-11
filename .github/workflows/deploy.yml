@@ -29,4 +29,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
     - name: Deploy
-      run: npm run deploy
+      run: |
+        echo ${{ secrets.GITHUB_TOKEN }}
+        npm run deploy
