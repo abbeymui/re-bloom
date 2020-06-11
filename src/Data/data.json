@@ -6,6 +6,12 @@
     "bio": "We are a group of college students and recent graduates who are volunteering to work on websites for small local businesses. From Wordpress development to full stack websites, we can help you create an online presence.",
     "contactmessage": "Fill out this Google Form and we'll get back to you soon!",
     "email": "abbey@re-bloom.org",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
     "phone": "(Your Phone Number)",
     "social": [
       {

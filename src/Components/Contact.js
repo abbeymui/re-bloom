@@ -21,9 +21,9 @@ class Contact extends Component {
                 title="googleform"
                 width="640"
                 height="524"
-                frameborder="0"
-                marginheight="0"
-                marginwidth="0"
+                frameBorder="0"
+                marginHeight="0"
+                marginWidth="0"
               >
                 Loading…
               </iframe>
