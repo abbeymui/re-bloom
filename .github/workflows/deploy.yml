@@ -22,6 +22,8 @@ jobs:
     - name: Deploy to gh-pages
       uses: peaceiris/actions-gh-pages@v3
       with:
+        name: 'Melodee Li'
+        email: 'melodeeli98@gmail.com'
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_dir: ./build
     - name: Deploy
