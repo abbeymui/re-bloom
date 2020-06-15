@@ -1,20 +1,25 @@
 import React, { Component } from "react";
-import genericLogo from "../Data/genericlogo.png";
 
 class Partnerships extends Component {
   render() {
     if (this.props.data) {
-      var projects = this.props.data.projects.map(function (projects) {
+      var projects = this.props.data.projects.map(function (project) {
         return (
-          <div key={projects.title} className="columns partnerships-item">
+          <div key={project.title} className="columns partnerships-item">
             <div className="item-wrap">
-              <img alt={projects.title} src={genericLogo} />
+              <img
+                alt={project.title}
+                src={require("../Data/" + project.image)}
+                style={{
+                  objectFit: "cover",
+                }}
+              />
             </div>
             <div
               className="partnerships-item-meta"
               style={{ textAlign: "center" }}
             >
-              <h5>{projects.title}</h5>
+              {/*<h5>{project.title}</h5>*/}
             </div>
           </div>
         );
@@ -29,6 +34,12 @@ class Partnerships extends Component {
             <div
               id="partnerships-wrapper"
               className="bgrid-quarters s-bgrid-thirds cf"
+              style={{
+                display: "flex",
+                flexDirection: "row",
+                flexWrap: "wrap",
+                justifyContent: "center",
+              }}
             >
               {projects}
             </div>

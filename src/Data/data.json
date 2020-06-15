@@ -38,23 +38,54 @@
         "name": "github",
         "url": "http://github.com/",
         "className": "fa fa-github"
+      }
+    ]
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Abbey Mui",
+        "image": "abbey.jpg",
+        "school": "CMU",
+        "gradYear": "2020",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/abbey-mui/"
       },
       {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
+        "name": "Melodee Li",
+        "image": "melodee.jpg",
+        "school": "CMU",
+        "gradYear": "2020",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/melodeeli98/"
+      },
+      {
+        "name": "Eric Maynard",
+        "image": "eric.jpg",
+        "school": "CMU",
+        "gradYear": "2020",
+        "urlType": "personal",
+        "url": "https://www.eric-maynard.com"
+      },
+      {
+        "name": "Michael Li",
+        "image": "michael.jpg",
+        "school": "Brown",
+        "gradYear": "2023",
+        "urlType": "personal",
+        "url": "https://maikully.github.io/react-site/"
       }
     ]
   },
   "partnerships": {
     "projects": [
       {
-        "title": "Fake Company 1",
-        "image": "genericlogo.png"
+        "title": "Pittsburgh North Regional Chamber",
+        "image": "pnrg.jpg"
       },
       {
-        "title": "Fake Company 2",
-        "image": "genericlogo.png"
+        "title": "AO Strength",
+        "image": "aostrength.png"
       }
     ]
   },
