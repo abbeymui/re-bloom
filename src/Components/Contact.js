@@ -13,7 +13,7 @@ class Contact extends Component {
         </h2>
         <div className="row banner">
           <p className="gray">{message}</p>
-          <div className="google-form" style={{ textAlign: "center" }}>
+          <div className="google-form">
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLSfzsY9hhopa3cQlb2efHzK0ZTIPOAqtkN8H1ug9-BE3Otv4hQ/viewform"
               title="googleform"
