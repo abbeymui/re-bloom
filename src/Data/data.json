@@ -7,12 +7,10 @@
     "contactmessage": "Fill out this Google Form and we'll get back to you soon!",
     "email": "abbey@re-bloom.org",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Pittsburgh",
+      "state": "PA"
     },
-    "phone": "(Your Phone Number)",
+    "phone": "(617) 800-5939",
     "social": [
       {
         "name": "facebook",
@@ -20,24 +18,9 @@
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/",
-        "className": "fa fa-github"
       }
     ]
   },
