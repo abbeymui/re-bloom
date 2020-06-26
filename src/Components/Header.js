@@ -63,7 +63,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3 style={{ color: "#cce667" }}>{description}</h3>
+            <h3 style={{ color: "#ddff73" }}>{description}</h3>
             <hr />
             <ul className="social">{networks}</ul>
           </div>
