@@ -14,12 +14,12 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/",
+        "url": "https://www.facebook.com/rebloompgh",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/company/re-bloom/",
         "className": "fa fa-linkedin"
       }
     ]
@@ -28,7 +28,7 @@
     "members": [
       {
         "name": "Abbey Mui",
-        "image": "abbey.jpg",
+        "image": "abbey.jpeg",
         "school": "CMU",
         "gradYear": "2020",
         "urlType": "linkedin",

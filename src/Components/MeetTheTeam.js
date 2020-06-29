@@ -13,6 +13,8 @@ class MeetTheTeam extends Component {
                   src={require("../Data/" + member.image)}
                   style={{
                     objectFit: "cover",
+                    width: "250px",
+                    height: "250px"
                   }}
                 />
                 <div className="overlay">
