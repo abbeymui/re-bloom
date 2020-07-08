@@ -703,8 +703,7 @@ dd {
 /*  5. Images  --------------------------------------------------------- */
 
 img {
-  max-width: 100%;
-  height: auto;
+  height: 200px;
 }
 
 img.pull-right {

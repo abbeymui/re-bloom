@@ -64,11 +64,23 @@
     "projects": [
       {
         "title": "Pittsburgh North Regional Chamber",
-        "image": "pnrc.png"
+        "image": "pnrc.png",
+        "url": "https://www.pghnorthchamber.com/"
       },
       {
-        "title": "AO Strength",
-        "image": "aostrength.png"
+        "title": "AOStrengthen",
+        "image": "aostrength.png",
+        "url": "https://aostrengthen.com/"
+      },
+      {
+        "title": "Self-Care Señorita",
+        "image": "self-care-senorita.png",
+        "url": "https://selfcaresenorita.com/"
+      },
+      {
+        "title": "Jewel Home Staging & Furniture Design",
+        "image": "jhsfd.jpeg",
+        "url": "https://jewelshsfd.com/"
       }
     ]
   },

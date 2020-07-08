@@ -7,19 +7,21 @@ class Partnerships extends Component {
         return (
           <div key={project.title} className="columns partnerships-item">
             <div className="item-wrap">
-              <img
-                alt={project.title}
-                src={require("../Data/" + project.image)}
-                style={{
-                  objectFit: "cover",
-                }}
-              />
+              <a href={project.url}>
+                <img
+                  alt={project.title}
+                  src={require("../Data/" + project.image)}
+                  style={{
+                    objectFit: "cover",
+                  }}
+                />
+              </a>
             </div>
             <div
               className="partnerships-item-meta"
               style={{ textAlign: "center" }}
             >
-              {/*<h5>{project.title}</h5>*/}
+              {<h5>{project.title}</h5>}
             </div>
           </div>
         );
