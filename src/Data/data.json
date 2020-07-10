@@ -2,7 +2,8 @@
   "main": {
     "name": "re:Bloom",
     "description": "Helping businesses go online.",
-    "logo": "logo.jpg",
+    "logo": "rebloom-logo-white-dropshadow.png",
+    "icon": "icon.png",
     "bio": "We are a group of college students and recent graduates who are volunteering to work on websites for small local businesses. From Wordpress development to full stack websites, we can help you create an online presence!",
     "contactmessage": "Fill out this Google Form and we'll get back to you soon!",
     "email": "abbey@re-bloom.org",
@@ -14,12 +15,12 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/rebloompgh",
+        "url": "https://www.facebook.com/rebloomdigital/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/company/re-bloom/",
+        "url": "https://www.linkedin.com/company/rebloomdigital/",
         "className": "fa fa-linkedin"
       }
     ]
@@ -57,6 +58,22 @@
         "gradYear": "2023",
         "urlType": "personal",
         "url": "https://maikully.github.io/react-site/"
+      },
+      {
+        "name": "Victoria Kong",
+        "image": "victoria.png",
+        "school": "CMU",
+        "gradYear": "2020",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/victoria-kong-b24701143/"
+      },
+      {
+        "name": "Jeff Xu",
+        "image": "jeff.jpg",
+        "school": "CMU",
+        "gradYear": "2021",
+        "urlType": "linkedin",
+        "url": "http://linkedin.com/in/jeff-xu"
       }
     ]
   },

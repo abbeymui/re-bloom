@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class About extends Component {
   render() {
     if (this.props.data) {
-      var logo = this.props.data.logo;
+      var icon = this.props.data.icon;
       var name = this.props.data.name;
       var bio = this.props.data.bio;
       //var street = this.props.data.address.street;
@@ -18,11 +18,10 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img className="logo" src={require("../Data/" + logo)} alt="Logo" />
+            <img className="logo" src={require("../Data/" + icon)} alt="Icon" />
           </div>
           <div className="nine columns main-col">
             <h2>About Us</h2>
-
             <p>{bio}</p>
             <div className="row">
               <div className="columns contact-details">

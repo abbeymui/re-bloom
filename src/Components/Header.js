@@ -3,8 +3,9 @@ import React, { Component } from "react";
 class Header extends Component {
   render() {
     if (this.props.data) {
-      var name = this.props.data.name;
+      //var name = this.props.data.name;
       var description = this.props.data.description;
+      var logo = this.props.data.logo;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
@@ -62,7 +63,7 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
+            <h1 className="responsive-headline"><img className="logo" src={require("../Data/" + logo)} alt="Logo" /></h1>
             <h3 style={{ color: "#ddff73" }}>{description}</h3>
             <hr />
             <ul className="social">{networks}</ul>

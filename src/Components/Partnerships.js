@@ -15,6 +15,12 @@ class Partnerships extends Component {
                     objectFit: "cover",
                   }}
                 />
+                <div className="overlay">
+                  <div className="portfolio-item-meta"></div>
+                </div>
+                <div className="link-icon">
+                  <i className="fa fa-link"></i>
+                </div>
               </a>
             </div>
             <div
