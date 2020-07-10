@@ -7,7 +7,7 @@ class MeetTheTeam extends Component {
         return (
           <div key={member.name} className="columns meettheteam-item">
             <div className="item-wrap">
-              <a href={member.url} title={member.name}>
+              <a href={member.url} target="_blank" rel="noopener noreferrer">
                 <img
                   alt={member.name}
                   src={require("../Data/" + member.image)}
@@ -20,16 +20,14 @@ class MeetTheTeam extends Component {
                 <div className="overlay">
                   <div className="portfolio-item-meta"></div>
                 </div>
-                {member.urlType === "linkedin" && (
-                  <div className="link-icon">
+                <div className="link-icon">
+                  {member.urlType === "linkedin" && (
                     <i className="fa fa-linkedin"></i>
-                  </div>
-                )}
-                {member.urlType === "personal" && (
-                  <div className="link-icon">
+                  )}
+                  {member.urlType === "personal" && (
                     <i className="fa fa-link"></i>
-                  </div>
-                )}
+                  )}
+                </div>
               </a>
             </div>
             <div

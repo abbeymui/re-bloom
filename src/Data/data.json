@@ -2,7 +2,7 @@
   "main": {
     "name": "re:Bloom",
     "description": "Helping businesses go online.",
-    "logo": "rebloom-logo-white-dropshadow.png",
+    "whiteLogo": "rebloom-logo-white-dropshadow.png",
     "icon": "icon.png",
     "bio": "We are a group of college students and recent graduates who are volunteering to work on websites for small local businesses. From Wordpress development to full stack websites, we can help you create an online presence!",
     "contactmessage": "Fill out this Google Form and we'll get back to you soon!",

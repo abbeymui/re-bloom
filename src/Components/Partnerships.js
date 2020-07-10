@@ -7,13 +7,11 @@ class Partnerships extends Component {
         return (
           <div key={project.title} className="columns partnerships-item">
             <div className="item-wrap">
-              <a href={project.url}>
+              <a href={project.url} target="_blank" rel="noopener noreferrer">
                 <img
                   alt={project.title}
                   src={require("../Data/" + project.image)}
-                  style={{
-                    objectFit: "cover",
-                  }}
+                  style={{ objectFit: "cover" }}
                 />
                 <div className="overlay">
                   <div className="portfolio-item-meta"></div>
