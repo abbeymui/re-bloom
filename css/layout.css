@@ -23,7 +23,7 @@
 /* ------------------------------------------------------------------ */
 
 body {
-  background: #0f0f0f;
+  background: #2c947d;
 }
 
 /* ------------------------------------------------------------------ */
@@ -35,7 +35,7 @@ header {
   height: 725px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/header-background.jpg) no-repeat top center;
+  background: #2c947d;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -69,8 +69,8 @@ header .banner-text h1 {
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
-  color: #a8a8a8;
+  font: 36px/1.9em "Source Sans Pro", sans-serif;
+  color: #8cc886;
   margin: 0 auto;
   width: 70%;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
@@ -141,17 +141,18 @@ header .scrolldown a:hover {
 }
 
 /* nav-wrap */
+
 #nav-wrap {
   font: 12px "opensans-bold", sans-serif;
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   margin: 0 auto;
-  padding: 20px 0;
   z-index: 100;
   position: fixed;
   left: 0;
   top: 0;
+  background-color: #2c947d;
 }
 .opaque {
   background-color: #333;
@@ -198,7 +199,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #97c93c;
 }
 
 /* ------------------------------------------------------------------ */
@@ -206,7 +207,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: #2b2b2b;
+  background: #444545;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -228,7 +229,7 @@ ul#nav li.current a {
 }
 #about p {
   line-height: 30px;
-  color: #7a7a7a;
+  color: #fff;
 }
 #about .logo {
   position: relative;
@@ -237,14 +238,6 @@ ul#nav li.current a {
   object-fit: cover;
   border-radius: 100%;
 }
-
-@media screen and (max-width: 1500px) {
-  .headerLogo {
-    visibility: hidden;
-    display: none;
-  }
-}
-
 #about .contact-details {
   width: 41.66667%;
 }
@@ -269,7 +262,7 @@ ul#nav li.current a {
 }
 
 /* ------------------------------------------------------------------ */
-/* d. Resume Section
+/* d. Resume Section (aka Meet the Team)
 /* ------------------------------------------------------------------ */
 
 #resume {
@@ -330,7 +323,7 @@ ul#nav li.current a {
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*  Skill Bars
 /*----------------------------------------------*/
 
 .bars {
@@ -374,32 +367,32 @@ ul#nav li.current a {
 }
 /*
 .git {
-  	-moz-animation: git 2s ease;
-  	-webkit-animation: git 2s ease;
+    -moz-animation: git 2s ease;
+    -webkit-animation: git 2s ease;
 }
 .illustrator {
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+    -moz-animation: illustrator 2s ease;
+    -webkit-animation: illustrator 2s ease;
 }
 .reactjs {
-  	-moz-animation: reactjs 2s ease;
-  	-webkit-animation: reactjs 2s ease;
+    -moz-animation: reactjs 2s ease;
+    -webkit-animation: reactjs 2s ease;
 }
 .css {
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+    -moz-animation: css 2s ease;
+    -webkit-animation: css 2s ease;
 }
 .html5 {
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+    -moz-animation: html5 2s ease;
+    -webkit-animation: html5 2s ease;
 }
 .vuejs {
-  	-moz-animation: vuejs 2s ease;
-  	-webkit-animation: vuejs 2s ease;
+    -moz-animation: vuejs 2s ease;
+    -webkit-animation: vuejs 2s ease;
 }
 .mongodb {
-  	-moz-animation: mongodb 2s ease;
-  	-webkit-animation: mongodb 2s ease;
+    -moz-animation: mongodb 2s ease;
+    -webkit-animation: mongodb 2s ease;
 }
 
 @-moz-keyframes git {
@@ -796,7 +789,7 @@ ul#nav li.current a {
 }
 /*#
 call-to-action .button {
-	color:#fff;
+  color:#fff;
    background: #0D0D0D;
 }
 */
@@ -852,7 +845,7 @@ call-to-action .button {
   color: #fff;
 }
 
-/*	Blockquotes */
+/*  Blockquotes */
 #testimonials blockquote {
   margin: 0 0px 30px 0px;
   padding-left: 0;

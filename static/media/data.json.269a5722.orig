@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "re:Bloom",
+<<<<<<< HEAD
+    "description": "Technology for Community",
+    "logo": "white outline logo 9.30.png",
+=======
+    "description": "Helping businesses go online.",
+    "whiteLogo": "rebloom-logo-white-dropshadow.png",
+>>>>>>> 65e1ecb4d48121b4069faf09b3eb8cc2bb192a5c
+    "icon": "icon.png",
+    "bio": "We are a group of driven individuals who are passionate about helping small businesses succeed. e build simple, clean, and easy to maintain websites. From Wordpress development to full stack websites, we can help you create an online presence!",
+    "contactmessage": "Fill out this Google Form and we'll get back to you soon!",
+    "philosophy": "We believe that technology should be accessible to everyone. That's why when you chose to work with re:Bloom, you will be involved in your website creation, every step of the way. affordable maintainance options.",
+    "email": "abbey@re-bloom.org",
+    "address": {
+      "city": "Pittsburgh",
+      "state": "PA"
+    },
+    "phone": "(617) 800-5939",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rebloomdigital/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/rebloomdigital/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Abbey Mui",
+        "image": "abbey.jpeg",
+        "school": "CMU",
+        "gradYear": "2020",
+        "role": "Founder",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/abbey-mui/"
+      },
+      {
+        "name": "Melodee Li",
+        "image": "melodee.jpg",
+        "school": "CMU",
+        "gradYear": "2020",
+        "role": "Developer",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/melodeeli98/"
+      },
+      {
+        "name": "Eric Maynard",
+        "image": "eric.jpg",
+        "school": "CMU",
+        "gradYear": "2020",
+        "role": "Developer",
+        "urlType": "personal",
+        "url": "https://www.eric-maynard.com"
+      },
+      {
+        "name": "Michael Li",
+        "image": "michael.jpg",
+        "school": "Brown",
+        "gradYear": "2023",
+        "role": "Developer",
+        "urlType": "personal",
+        "url": "https://maikully.github.io/react-site/"
+      },
+      {
+        "name": "Victoria Kong",
+        "image": "victoria.png",
+        "school": "CMU",
+        "gradYear": "2020",
+        "role": "Developer",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/victoria-kong-b24701143/"
+      },
+      {
+        "name": "Jeff Xu",
+        "image": "jeff.jpg",
+        "school": "CMU",
+        "gradYear": "2021",
+        "role": "Developer",
+        "urlType": "linkedin",
+        "url": "http://linkedin.com/in/jeff-xu"
+      }
+    ]
+  },
+  "partnerships": {
+    "projects": [
+      {
+        "title": "AOStrengthen",
+        "image": "aostrength.png",
+        "url": "https://aostrengthen.com/"
+      },
+      {
+        "title": "Jewel Home Staging & Furniture Design",
+        "image": "jhsfd.jpeg",
+        "url": "https://jewelshsfd.com/"
+      },
+      {
+        "title": "Live Core Strong",
+        "image": "livecorestrong.png",
+        "url": "https://livecorestrong.com//"
+      },
+      {
+        "title": "Pittsburgh North Regional Chamber",
+        "image": "pnrc.png",
+        "url": "https://www.pghnorthchamber.com/"
+      },
+      {
+        "title": "Self-Care Señorita",
+        "image": "self-care-senorita.png",
+        "url": "https://selfcaresenorita.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

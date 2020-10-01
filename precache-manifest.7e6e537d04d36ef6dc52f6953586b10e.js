@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa4e4cb636e1da3b18a903c748413b0c",
+    "revision": "b073f61f5539dad70d01ab17ce465ccd",
     "url": "/index.html"
   },
   {
-    "revision": "c169130af550018bd3bf",
-    "url": "/static/js/2.77fda1ae.chunk.js"
+    "revision": "540d4ee55a422b58be17",
+    "url": "/static/js/2.bd503ac2.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.77fda1ae.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bd503ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a622da5d92539eb433e",
-    "url": "/static/js/main.95f5d11e.chunk.js"
+    "revision": "0a61d28c5549546571d7",
+    "url": "/static/js/main.05461d95.chunk.js"
   },
   {
-    "revision": "7b8aeb8a6451f254fe17",
-    "url": "/static/js/runtime-main.4e658f6f.js"
+    "revision": "afe90cb60e84ee11acdf",
+    "url": "/static/js/runtime-main.28732c29.js"
   },
   {
     "revision": "7edc395c872f281e4a4b459ea918b9ed",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/aostrength.afca3faf.png"
   },
   {
-    "revision": "013a7c1330e6c61e24766cd190458817",
-    "url": "/static/media/colorlogo.013a7c13.png"
+    "revision": "269a57227bfae69245e15dcfa676dc52",
+    "url": "/static/media/data.json.269a5722.orig"
   },
   {
     "revision": "53eccbdcaa5f84a5095878f3f9e2b40b",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jhsfd.849598be.jpeg"
   },
   {
+    "revision": "a6fa14b8eae3ca44ed85a5114095ebd4",
+    "url": "/static/media/livecorestrong.a6fa14b8.png"
+  },
+  {
     "revision": "27a646deabe63d573a1d84760c701531",
     "url": "/static/media/melodee.27a646de.jpg"
   },
@@ -56,23 +60,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pnrc.1235211c.png"
   },
   {
-    "revision": "2bfb8cbf0595663ee021f3dd888ea72c",
-    "url": "/static/media/pnrc.2bfb8cbf.jpg"
+    "revision": "b4868d9013332204ab5c4773c3626aef",
+    "url": "/static/media/reBloom-icon-9.10.b4868d90.png"
   },
   {
-    "revision": "b1addfe5d4bb40c7511065bc17f8a76d",
-    "url": "/static/media/pnrc.b1addfe5.svg"
-  },
-  {
-    "revision": "d827d6cd7d6c8ba8e4544d4386227dde",
-    "url": "/static/media/rebloom-logo-white-dropshadow.d827d6cd.png"
-  },
-  {
-    "revision": "20fb21070bb16473374d1e1f0375e33f",
-    "url": "/static/media/rebloom-logo-white-grey.20fb2107.png"
+    "revision": "efba9ebbdf458e217643a4f3691522b3",
+    "url": "/static/media/reBloom-logo-10.1.efba9ebb.png"
   },
   {
     "revision": "fb4736b819efb55ea618fd5ae4304152",
     "url": "/static/media/victoria.fb4736b8.png"
+  },
+  {
+    "revision": "919f79e9b3f155ffa01da123426fdbb7",
+    "url": "/static/media/white-outline-logo-10.1.919f79e9.png"
   }
 ]);
