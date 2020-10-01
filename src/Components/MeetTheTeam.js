@@ -38,9 +38,6 @@ class MeetTheTeam extends Component {
             >
               <h5 style={{ marginBottom: "5px" }}>{member.name}</h5>
               <div style={{ fontSize: 12, color: "black" }}>
-                {member.role}
-              </div>
-              <div style={{ fontSize: 12, color: "black" }}>
                 {member.school} Class of {member.gradYear}
               </div>
             </div>
