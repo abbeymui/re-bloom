@@ -4,7 +4,7 @@ class About extends Component {
   render() {
     if (this.props.data) {
       var icon = this.props.data.icon;
-      var name = this.props.data.name;
+      //var name = this.props.data.name;
       var about = this.props.data.about;
       var philosophy = this.props.data.philosophy;
       //var street = this.props.data.address.street;
