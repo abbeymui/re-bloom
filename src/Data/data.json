@@ -1,13 +1,8 @@
 {
   "main": {
     "name": "re:Bloom",
-<<<<<<< HEAD
     "description": "Technology for Community",
     "logo": "white outline logo 9.30.png",
-=======
-    "description": "Helping businesses go online.",
-    "whiteLogo": "rebloom-logo-white-dropshadow.png",
->>>>>>> 65e1ecb4d48121b4069faf09b3eb8cc2bb192a5c
     "icon": "icon.png",
     "bio": "We are a group of driven individuals who are passionate about helping small businesses succeed. e build simple, clean, and easy to maintain websites. From Wordpress development to full stack websites, we can help you create an online presence!",
     "contactmessage": "Fill out this Google Form and we'll get back to you soon!",

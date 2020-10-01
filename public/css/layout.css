@@ -148,7 +148,6 @@ header .scrolldown a:hover {
   text-transform: uppercase;
   letter-spacing: 2.5px;
   margin: 0 auto;
-  padding: 20px 0;
   z-index: 100;
   position: fixed;
   left: 0;
@@ -239,14 +238,6 @@ ul#nav li.current a {
   object-fit: cover;
   border-radius: 100%;
 }
-
-@media screen and (max-width: 1500px) {
-  .headerLogo {
-    visibility: hidden;
-    display: none;
-  }
-}
-
 #about .contact-details {
   width: 41.66667%;
 }
@@ -332,7 +323,7 @@ ul#nav li.current a {
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*  Skill Bars
 /*----------------------------------------------*/
 
 .bars {
@@ -376,32 +367,32 @@ ul#nav li.current a {
 }
 /*
 .git {
-  	-moz-animation: git 2s ease;
-  	-webkit-animation: git 2s ease;
+    -moz-animation: git 2s ease;
+    -webkit-animation: git 2s ease;
 }
 .illustrator {
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+    -moz-animation: illustrator 2s ease;
+    -webkit-animation: illustrator 2s ease;
 }
 .reactjs {
-  	-moz-animation: reactjs 2s ease;
-  	-webkit-animation: reactjs 2s ease;
+    -moz-animation: reactjs 2s ease;
+    -webkit-animation: reactjs 2s ease;
 }
 .css {
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+    -moz-animation: css 2s ease;
+    -webkit-animation: css 2s ease;
 }
 .html5 {
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+    -moz-animation: html5 2s ease;
+    -webkit-animation: html5 2s ease;
 }
 .vuejs {
-  	-moz-animation: vuejs 2s ease;
-  	-webkit-animation: vuejs 2s ease;
+    -moz-animation: vuejs 2s ease;
+    -webkit-animation: vuejs 2s ease;
 }
 .mongodb {
-  	-moz-animation: mongodb 2s ease;
-  	-webkit-animation: mongodb 2s ease;
+    -moz-animation: mongodb 2s ease;
+    -webkit-animation: mongodb 2s ease;
 }
 
 @-moz-keyframes git {
@@ -798,7 +789,7 @@ ul#nav li.current a {
 }
 /*#
 call-to-action .button {
-	color:#fff;
+  color:#fff;
    background: #0D0D0D;
 }
 */
@@ -854,7 +845,7 @@ call-to-action .button {
   color: #fff;
 }
 
-/*	Blockquotes */
+/*  Blockquotes */
 #testimonials blockquote {
   margin: 0 0px 30px 0px;
   padding-left: 0;
