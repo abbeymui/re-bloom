@@ -148,6 +148,7 @@ header .scrolldown a:hover {
   text-transform: uppercase;
   letter-spacing: 2.5px;
   margin: 0 auto;
+  padding: 20px 0;
   z-index: 100;
   position: fixed;
   left: 0;
@@ -238,6 +239,14 @@ ul#nav li.current a {
   object-fit: cover;
   border-radius: 100%;
 }
+
+@media screen and (max-width: 1500px) {
+  .headerLogo {
+    visibility: hidden;
+    display: none;
+  }
+}
+
 #about .contact-details {
   width: 41.66667%;
 }
