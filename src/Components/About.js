@@ -5,10 +5,11 @@ class About extends Component {
     if (this.props.data) {
       var icon = this.props.data.icon;
       var name = this.props.data.name;
-      var bio = this.props.data.bio;
+      var about = this.props.data.about;
+      var philosophy = this.props.data.philosophy;
       //var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
+      //var city = this.props.data.address.city;
+      //var state = this.props.data.address.state;
       //var zip = this.props.data.address.zip;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
@@ -22,18 +23,20 @@ class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Us</h2>
-            <p>{bio}</p>
+            <p>{about}</p>
+             <h2>Philosophy</h2>
+            <p>{philosophy}</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
-                  <span>{name}</span>
+                  {/*}<span>{name}</span>
                   <span>
-                    {/*street*/}
+                    {street}
                     <br />
-                    {city} {state}{/*}, {zip}*/}
+                    {city} {state}, {zip}}
                   </span>
-                  <br />
+                  <br />{*/}
                   <span>{phone}</span>
                   <br />
                   <span>{email}</span>

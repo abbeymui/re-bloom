@@ -5,7 +5,7 @@ class Header extends Component {
     if (this.props.data) {
       //var name = this.props.data.name;
       var description = this.props.data.description;
-      var whiteLogo = this.props.data.whiteLogo;
+      var whiteLogo = this.props.data.logo;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>

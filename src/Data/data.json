@@ -1,11 +1,12 @@
 {
   "main": {
     "name": "re:Bloom",
-    "description": "Helping businesses go online.",
-    "logo": "rebloom-logo-white-dropshadow.png",
-    "icon": "icon.png",
-    "bio": "We are a group of college students and recent graduates who are volunteering to work on websites for small local businesses. From Wordpress development to full stack websites, we can help you create an online presence!",
+    "description": "Technology for Community",
+    "logo": "white-outline-logo-10.1.png",
+    "icon": "reBloom-logo-10.1.png",
+    "about": "We are a group of driven individuals who are passionate about helping small businesses succeed. We build simple, clean, and easy to maintain websites. From Wordpress development to full stack websites, we can help you create an online presence!",
     "contactmessage": "Fill out this Google Form and we'll get back to you soon!",
+    "philosophy": "We believe that technology should be accessible to everyone. That's why when you chose to work with re:Bloom, you will be involved in your website creation, every step of the way.",
     "email": "abbey@re-bloom.org",
     "address": {
       "city": "Pittsburgh",
@@ -32,6 +33,7 @@
         "image": "abbey.jpeg",
         "school": "CMU",
         "gradYear": "2020",
+        "role": "Founder",
         "urlType": "linkedin",
         "url": "https://www.linkedin.com/in/abbey-mui/"
       },
@@ -40,6 +42,7 @@
         "image": "melodee.jpg",
         "school": "CMU",
         "gradYear": "2020",
+        "role": "Developer",
         "urlType": "linkedin",
         "url": "https://www.linkedin.com/in/melodeeli98/"
       },
@@ -48,6 +51,7 @@
         "image": "eric.jpg",
         "school": "CMU",
         "gradYear": "2020",
+        "role": "Developer",
         "urlType": "personal",
         "url": "https://www.eric-maynard.com"
       },
@@ -56,6 +60,7 @@
         "image": "michael.jpg",
         "school": "Brown",
         "gradYear": "2023",
+        "role": "Developer",
         "urlType": "personal",
         "url": "https://maikully.github.io/react-site/"
       },
@@ -64,6 +69,7 @@
         "image": "victoria.png",
         "school": "CMU",
         "gradYear": "2020",
+        "role": "Developer",
         "urlType": "linkedin",
         "url": "https://www.linkedin.com/in/victoria-kong-b24701143/"
       },
@@ -72,6 +78,7 @@
         "image": "jeff.jpg",
         "school": "CMU",
         "gradYear": "2021",
+        "role": "Developer",
         "urlType": "linkedin",
         "url": "http://linkedin.com/in/jeff-xu"
       }
@@ -80,24 +87,29 @@
   "partnerships": {
     "projects": [
       {
-        "title": "Pittsburgh North Regional Chamber",
-        "image": "pnrc.png",
-        "url": "https://www.pghnorthchamber.com/"
-      },
-      {
         "title": "AOStrengthen",
         "image": "aostrength.png",
         "url": "https://aostrengthen.com/"
       },
       {
-        "title": "Self-Care Señorita",
-        "image": "self-care-senorita.png",
-        "url": "https://selfcaresenorita.com/"
-      },
-      {
         "title": "Jewel Home Staging & Furniture Design",
         "image": "jhsfd.jpeg",
         "url": "https://jewelshsfd.com/"
+      },
+      {
+        "title": "Live Core Strong",
+        "image": "livecorestrong.png",
+        "url": "https://livecorestrong.com//"
+      },
+      {
+        "title": "Pittsburgh North Regional Chamber",
+        "image": "pnrc.png",
+        "url": "https://www.pghnorthchamber.com/"
+      },
+      {
+        "title": "Self-Care Señorita",
+        "image": "self-care-senorita.png",
+        "url": "https://selfcaresenorita.com/"
       }
     ]
   },
