@@ -7,7 +7,7 @@ class Contact extends Component {
     }
 
     return (
-      <section id="contact">
+      <section id="volunteer">
         <h2 style={{ color: "white", textAlign: "center" }}>
           Interested in becoming a volunteer developer?
         </h2>
