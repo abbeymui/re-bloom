@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88af4c20a359b1f1f411b7be0378f51d",
+    "revision": "98e3f256e7e64a507996f06211b0e9a0",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd503ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd21bcfee3adabe87ead",
-    "url": "/static/js/main.0128968b.chunk.js"
+    "revision": "889e706c99b24554ec40",
+    "url": "/static/js/main.d492ba20.chunk.js"
   },
   {
     "revision": "afe90cb60e84ee11acdf",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "efba9ebbdf458e217643a4f3691522b3",
     "url": "/static/media/reBloom-logo-10.1.efba9ebb.png"
+  },
+  {
+    "revision": "f17f4a85a4f0b245ea298351c06682bb",
+    "url": "/static/media/self-care-senorita.f17f4a85.jpeg"
   },
   {
     "revision": "fb4736b819efb55ea618fd5ae4304152",
