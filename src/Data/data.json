@@ -124,5 +124,33 @@
         "user": "Steve Wozniak... impersonator"
       }
     ]
+  },
+  "blogs": {
+    "blogs": [
+      {
+        "title": "Test Title 1",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "image": "abbey.jpeg",
+        "link": "http://www.google.com"
+      },
+      {
+        "title": "Test Title 1",
+        "text": "Test text 1",
+        "image": "abbey.jpeg",
+        "link": "google.com"
+      },
+      {
+        "title": "Test Title 1",
+        "text": "Test text 1",
+        "image": "abbey.jpeg",
+        "link": "google.com"
+      },
+      {
+        "title": "Test Title 1",
+        "text": "Test text 1",
+        "image": "abbey.jpeg",
+        "link": "google.com"
+      }
+    ]
   }
 }

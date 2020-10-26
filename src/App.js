@@ -1,13 +1,12 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import About from "./Components/About";
-import Contact from "./Components/Contact";
-import MeetTheTeam from "./Components/MeetTheTeam";
-//import Testimonials from "./Components/Testimonials";
-import Partnerships from "./Components/Partnerships";
-import data from "./Data/data.json";
+import {
+  BrowserRouter as Router,
+  Route
+} from "react-router-dom";
+
+import Home from "./Components/Home";
+import Blogs from "./Components/Blogs";
 
 class App extends Component {
   constructor(props) {
@@ -18,15 +17,10 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <Header data={data.main} />
-        <About data={data.main} />
-        <MeetTheTeam data={data.team} />
-        <Partnerships data={data.partnerships} />
-        {/*<Testimonials data={data.testimonials} />*/}
-        <Contact data={data.main} />
-        <Footer data={data.main} />
-      </div>
+      <Router>
+          <Route path="/" exact component={Home} />
+          <Route path="/blogs" exact component={Blogs} />
+      </Router>
     );
   }
 }

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 
 class Header extends Component {
   render() {
@@ -57,6 +58,11 @@ class Header extends Component {
               <a className="smoothscroll" href="#volunteer">
                 Volunteer
               </a>
+            </li>
+            <li>
+              <Link to="/blogs">
+                Blog
+              </Link>
             </li>
           </ul>
         </nav>
