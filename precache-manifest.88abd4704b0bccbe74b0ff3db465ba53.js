@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c09f6e255a1d12a7cf456a41a0196960",
+    "revision": "dbe57281b40e6faa61d436882dfcd8ff",
     "url": "/index.html"
   },
   {
@@ -12,32 +12,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd503ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c16068dc2a10a7597531",
-    "url": "/static/js/main.cf550ee9.chunk.js"
+    "revision": "ac1d2f429d95ec8978f3",
+    "url": "/static/js/main.80eaee1d.chunk.js"
   },
   {
     "revision": "afe90cb60e84ee11acdf",
     "url": "/static/js/runtime-main.28732c29.js"
   },
   {
-    "revision": "0fb6871141e1fadafe587e232a9c6639",
-    "url": "/static/media/Anjali_Headshot.0fb68711.jpg"
-  },
-  {
-    "revision": "2fa0ad6436f1ca49c44d8f21712bbe33",
-    "url": "/static/media/Kari_headshot.2fa0ad64.png"
-  },
-  {
-    "revision": "4ceedd0737f4bf41eece060cc173bf6d",
-    "url": "/static/media/Keerthana_Headshot.4ceedd07.jpg"
-  },
-  {
-    "revision": "ab3635cba3a54a53116b12db81f8861d",
-    "url": "/static/media/Sue_headshot.ab3635cb.jpg"
-  },
-  {
     "revision": "7edc395c872f281e4a4b459ea918b9ed",
     "url": "/static/media/abbey.7edc395c.jpeg"
+  },
+  {
+    "revision": "0fb6871141e1fadafe587e232a9c6639",
+    "url": "/static/media/anjali.0fb68711.jpg"
   },
   {
     "revision": "afca3faf93717da95f955e5d84bff754",
@@ -58,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "849598bec7eec69d9878e143232fe9ea",
     "url": "/static/media/jhsfd.849598be.jpeg"
+  },
+  {
+    "revision": "2fa0ad6436f1ca49c44d8f21712bbe33",
+    "url": "/static/media/kari.2fa0ad64.png"
+  },
+  {
+    "revision": "4ceedd0737f4bf41eece060cc173bf6d",
+    "url": "/static/media/keerthana.4ceedd07.jpg"
   },
   {
     "revision": "a6fa14b8eae3ca44ed85a5114095ebd4",
@@ -86,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f17f4a85a4f0b245ea298351c06682bb",
     "url": "/static/media/self-care-senorita.f17f4a85.jpeg"
+  },
+  {
+    "revision": "ab3635cba3a54a53116b12db81f8861d",
+    "url": "/static/media/sue.ab3635cb.jpg"
   },
   {
     "revision": "fb4736b819efb55ea618fd5ae4304152",
