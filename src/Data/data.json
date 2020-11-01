@@ -81,6 +81,42 @@
         "role": "Developer",
         "urlType": "linkedin",
         "url": "http://linkedin.com/in/jeff-xu"
+      },
+      {
+        "name": "Ana Karina Van Nortwick",
+        "image": "kari.png",
+        "school": "CMU",
+        "gradYear": "2019",
+        "role": "Content Writer",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/ana-karina-van-nortwick/"
+      },
+      {
+        "name": "Anjali Akula",
+        "image": "anjali.jpg",
+        "school": "CMU",
+        "gradYear": "2023",
+        "role": "Developer",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/anjali-akula-06964a195/"
+      },
+      {
+        "name": "Sue Lee",
+        "image": "sue.jpg",
+        "school": "CMU",
+        "gradYear": "2022",
+        "role": "Developer",
+        "urlType": "personal",
+        "url": "http://suelee.netlify.app"
+      },
+      {
+        "name": "Keerthana Vinay",
+        "image": "keerthana.jpg",
+        "school": "CMU",
+        "gradYear": "2024",
+        "role": "Developer",
+        "urlType": "linkedin",
+        "url": "https://www.linkedin.com/in/keerthanavinay/"
       }
     ]
   },
