@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98e3f256e7e64a507996f06211b0e9a0",
+    "revision": "c09f6e255a1d12a7cf456a41a0196960",
     "url": "/index.html"
   },
   {
@@ -12,12 +12,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd503ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "889e706c99b24554ec40",
-    "url": "/static/js/main.d492ba20.chunk.js"
+    "revision": "c16068dc2a10a7597531",
+    "url": "/static/js/main.cf550ee9.chunk.js"
   },
   {
     "revision": "afe90cb60e84ee11acdf",
     "url": "/static/js/runtime-main.28732c29.js"
+  },
+  {
+    "revision": "0fb6871141e1fadafe587e232a9c6639",
+    "url": "/static/media/Anjali_Headshot.0fb68711.jpg"
+  },
+  {
+    "revision": "2fa0ad6436f1ca49c44d8f21712bbe33",
+    "url": "/static/media/Kari_headshot.2fa0ad64.png"
+  },
+  {
+    "revision": "4ceedd0737f4bf41eece060cc173bf6d",
+    "url": "/static/media/Keerthana_Headshot.4ceedd07.jpg"
+  },
+  {
+    "revision": "ab3635cba3a54a53116b12db81f8861d",
+    "url": "/static/media/Sue_headshot.ab3635cb.jpg"
   },
   {
     "revision": "7edc395c872f281e4a4b459ea918b9ed",
