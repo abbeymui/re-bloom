@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbe57281b40e6faa61d436882dfcd8ff",
+    "revision": "94870e4a7c7b6083abee5402df404254",
     "url": "/index.html"
   },
   {
@@ -12,12 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd503ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac1d2f429d95ec8978f3",
-    "url": "/static/js/main.80eaee1d.chunk.js"
+    "revision": "333db2247efbfc00179c",
+    "url": "/static/js/main.abf0ae99.chunk.js"
   },
   {
     "revision": "afe90cb60e84ee11acdf",
     "url": "/static/js/runtime-main.28732c29.js"
+  },
+  {
+    "revision": "10e4d3724f36fc9d5b7e24093eee12a0",
+    "url": "/static/media/a-queen-with-a-purpose.10e4d372.jpg"
   },
   {
     "revision": "7edc395c872f281e4a4b459ea918b9ed",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "afca3faf93717da95f955e5d84bff754",
     "url": "/static/media/aostrength.afca3faf.png"
+  },
+  {
+    "revision": "b6a1557cf35dd1008375350213aefd2c",
+    "url": "/static/media/apollo-cafe.b6a1557c.png"
   },
   {
     "revision": "269a57227bfae69245e15dcfa676dc52",
