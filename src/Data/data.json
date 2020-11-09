@@ -128,6 +128,11 @@
         "url": "https://aostrengthen.com/"
       },
       {
+        "title": "Apollo Cafe",
+        "image": "apollo-cafe.png",
+        "url": ""
+      },
+      {
         "title": "Jewel Home Staging & Furniture Design",
         "image": "jhsfd.jpeg",
         "url": "https://jewelshsfd.com/"
@@ -146,6 +151,16 @@
         "title": "Self-Care Señorita",
         "image": "self-care-senorita.jpeg",
         "url": "https://selfcaresenorita.com/"
+      },
+      {
+        "title": "Teppanyaki Kyoto Restaurant",
+        "image": "teppanyaki-kyoto-restaurant.jpg",
+        "url": "https://teppanyakikyoto.com/"
+      },
+      {
+        "title": "A Queen with a Purpose",
+        "image": "a-queen-with-a-purpose.jpg",
+        "url": ""
       }
     ]
   },
