@@ -10,7 +10,6 @@ class Blogs extends Component {
 
     if (data) {
       var blogs = data.blogs.blogs.map(function (blog) {
-        console.log(blog);
         return <Blog blog={blog} />;
       })
     }
@@ -48,7 +47,7 @@ class Blogs extends Component {
           </div>
         </section>
 
-          <Footer data={data.main} />
+        <Footer data={data.main} />
       </div>
     );
   }

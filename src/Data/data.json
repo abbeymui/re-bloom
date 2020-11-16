@@ -164,28 +164,10 @@
   "blogs": {
     "blogs": [
       {
-        "title": "Test Title 1",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
-        "image": "abbey.jpeg",
-        "link": "http://www.google.com"
-      },
-      {
-        "title": "Test Title 1",
-        "text": "Test text 1",
-        "image": "abbey.jpeg",
-        "link": "google.com"
-      },
-      {
-        "title": "Test Title 1",
-        "text": "Test text 1",
-        "image": "abbey.jpeg",
-        "link": "google.com"
-      },
-      {
-        "title": "Test Title 1",
-        "text": "Test text 1",
-        "image": "abbey.jpeg",
-        "link": "google.com"
+        "title": "Global Connection: Finding Functionality Online",
+        "text": "Take a second and evaluate how you engage with technology. What first started as a functional assistant in your daily process is now the main form of engaging with anyone. Our technologically driven world creates ample opportunity, but not everyone faces the same dilemmas, circumstances, or accomplishments. The sudden shift in the workforce converges online, yet each situation presents a unique problem that must find a unique solution...",
+        "image": "Global_Connection_Finding_Functionality_Online.jpeg",
+        "link": "https://rebloomdigital.medium.com/"
       }
     ]
   }
