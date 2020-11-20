@@ -41,7 +41,10 @@ class MeetTheTeam extends Component {
                 {member.role}
               </div>
               <div style={{ fontSize: 12, color: "black" }}>
-                {member.school} Class of {member.gradYear}
+                {member.school}
+              </div>
+              <div style={{ fontSize: 12, color: "black" }}>
+                Class of {member.gradYear}
               </div>
             </div>
           </div>
