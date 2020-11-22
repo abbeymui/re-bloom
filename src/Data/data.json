@@ -31,7 +31,7 @@
       {
         "name": "Abbey Mui",
         "image": "abbey.jpeg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2020",
         "role": "Founder",
         "urlType": "linkedin",
@@ -40,7 +40,7 @@
       {
         "name": "Melodee Li",
         "image": "melodee.jpg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2020",
         "role": "Developer",
         "urlType": "linkedin",
@@ -49,7 +49,7 @@
       {
         "name": "Eric Maynard",
         "image": "eric.jpg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2020",
         "role": "Developer",
         "urlType": "personal",
@@ -58,7 +58,7 @@
       {
         "name": "Michael Li",
         "image": "michael.jpg",
-        "school": "Brown",
+        "school": "Brown University",
         "gradYear": "2023",
         "role": "Developer",
         "urlType": "personal",
@@ -67,7 +67,7 @@
       {
         "name": "Victoria Kong",
         "image": "victoria.png",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2020",
         "role": "Developer",
         "urlType": "linkedin",
@@ -76,7 +76,7 @@
       {
         "name": "Jeff Xu",
         "image": "jeff.jpg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2021",
         "role": "Developer",
         "urlType": "linkedin",
@@ -85,7 +85,7 @@
       {
         "name": "Ana Karina Van Nortwick",
         "image": "kari.png",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2019",
         "role": "Content Writer",
         "urlType": "linkedin",
@@ -94,7 +94,7 @@
       {
         "name": "Anjali Akula",
         "image": "anjali.jpg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2023",
         "role": "Developer",
         "urlType": "linkedin",
@@ -103,7 +103,7 @@
       {
         "name": "Sue Lee",
         "image": "sue.jpg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2022",
         "role": "Developer",
         "urlType": "personal",
@@ -112,11 +112,20 @@
       {
         "name": "Keerthana Vinay",
         "image": "keerthana.jpg",
-        "school": "CMU",
+        "school": "Carnegie Mellon University",
         "gradYear": "2024",
         "role": "Developer",
         "urlType": "linkedin",
         "url": "https://www.linkedin.com/in/keerthanavinay/"
+      },
+      {
+        "name": "Aman Wadhwa",
+        "image": "aman.png",
+        "school": "Bridgewater Raritan HS",
+        "gradYear": "2021",
+        "role": "Developer",
+        "urlType": "",
+        "url": ""
       }
     ]
   },
