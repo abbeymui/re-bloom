@@ -70,7 +70,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline"><img className="logo" src={require("../Data/" + whiteLogo)} alt="Logo" style={{ maxWidth: "50%", height: "auto" }} /></h1>
-            <h3 style={{ color: "#ddff73" }}>{description}</h3>
+            <h3 className="header-description" style={{ color: "#ddff73" }}>{description}</h3>
             <hr />
             <ul className="social">{networks}</ul>
           </div>
