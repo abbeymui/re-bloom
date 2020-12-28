@@ -15,7 +15,7 @@ class Contact extends Component {
           <p className="gray">{message}</p>
           <div className="google-form">
             <iframe
-              src="https://docs.google.com/forms/d/e/1FAIpQLSczPFNHc54e4WYn8OtAPN4f8gVVRpX3RuCCwN4vg6xbHxkUdg/viewform"
+              src="https://docs.google.com/forms/d/e/1FAIpQLSecEZ7ujjK9elGve4Yr24hcKGoAf4BWtYSAhEK9amkz0X4PsA/viewform"
               title="googleform"
               width="640"
               height="524"
