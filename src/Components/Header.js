@@ -60,6 +60,11 @@ class Header extends Component {
               </a>
             </li>
             <li>
+              <a className="smoothscroll" href="#client">
+                Work With Us
+              </a>
+            </li>
+            <li>
               <Link to="/blogs">
                 Blog
               </Link>

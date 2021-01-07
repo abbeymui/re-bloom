@@ -6,6 +6,7 @@ import Contact from "./Contact";
 import MeetTheTeam from "./MeetTheTeam";
 //import Testimonials from "./Testimonials";
 import Partnerships from "./Partnerships";
+import Client from "./Client";
 import data from "../Data/data.json";
 
 class Home extends Component {
@@ -18,6 +19,7 @@ class Home extends Component {
         <Partnerships data={data.partnerships} />
         {/*<Testimonials data={data.testimonials} />*/}
         <Contact data={data.main} />
+        <Client data={data.main} />
         <Footer data={data.main} />
       </div>
     );
